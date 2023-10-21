@@ -47,9 +47,9 @@ function NavBar() {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="#"><img src={navIcon1} alt="" /></a>
-                <a href="#"><img src={navIcon2} alt="" /></a>
-                <a href="#"><img src={navIcon3} alt="" /></a>
+                <a href="https://www.linkedin.com/in/bata-zoaka-a67270234"><img src={navIcon1} alt="" /></a>
+                <a href="https://web.facebook.com/profile.php?id=100075445362734"><img src={navIcon2} alt="" /></a>
+                <a href="https://twitter.com/Prof_Bata"><img src={navIcon3} alt="" /></a>
               </div>
                 <button className="vvd"><span>Let’s Connect</span></button>
               
