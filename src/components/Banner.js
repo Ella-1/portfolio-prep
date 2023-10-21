@@ -49,9 +49,9 @@ function Banner() {
             <Container>
                 <Row className="align-items-center">
                     <Col xs={12} md={6} xl={7}>
-                        <span className="tagline">Welcome to our Portfolio</span>
+                        <span className="tagline">Welcome to my Portfolio</span>
                         <h1>{`I'm  Bata `} <span className="wrap">{text}</span></h1>
-                        <p>We are super exited to meet you have fun scrollig through my page</p>
+                        <p>I am super exited to meet you have fun scrollig through my page</p>
                         <button onClick={ () => console.log('Connect')}>Let's connect <ArrowRightCircle size={25} /> </button>
                     </Col>
 
