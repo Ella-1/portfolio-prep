@@ -37,11 +37,11 @@ function Skills() {
                         <Carousel responsive={responsive} infinite={true} className="skill-slider">
                         <div className="item">
                             <img src={meter1} alt="image"/>
-                            <h5>Web developer</h5>
+                            <h5>Software Engineer</h5>
                         </div>
                         <div className="item">
                             <img src={meter2} alt="image"/>
-                            <h5>Devops</h5>
+                            <h5>Blockchain Developer</h5>
                         </div>
                         <div className="item">
                             <img src={meter3} alt="image"/>
